@@ -1,0 +1,81 @@
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\bin\Debug\net6.0\appsettings.json
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\bin\Debug\net6.0\TarHome1.exe
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\bin\Debug\net6.0\TarHome1.deps.json
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\bin\Debug\net6.0\TarHome1.runtimeconfig.json
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\bin\Debug\net6.0\TarHome1.dll
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\bin\Debug\net6.0\TarHome1.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.csproj.AssemblyReference.cache
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.AssemblyInfoInputs.cache
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.AssemblyInfo.cs
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.csproj.CoreCompileInputs.cache
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\obj\Debug\net6.0\scopedcss\bundle\TarHome1.styles.css
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.csproj.CopyComplete
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.dll
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\obj\Debug\net6.0\refint\TarHome1.dll
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.genruntimeconfig.cache
+C:\Users\97254\OneDrive\שולחן העבודה\TarHome1\TarHome1\obj\Debug\net6.0\ref\TarHome1.dll
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\bin\Debug\net6.0\appsettings.json
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\bin\Debug\net6.0\TarHome1.exe
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\bin\Debug\net6.0\TarHome1.deps.json
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\bin\Debug\net6.0\TarHome1.runtimeconfig.json
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\bin\Debug\net6.0\TarHome1.dll
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\bin\Debug\net6.0\TarHome1.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.csproj.AssemblyReference.cache
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.AssemblyInfoInputs.cache
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.AssemblyInfo.cs
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.csproj.CoreCompileInputs.cache
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\obj\Debug\net6.0\scopedcss\bundle\TarHome1.styles.css
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.csproj.CopyComplete
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.dll
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\obj\Debug\net6.0\refint\TarHome1.dll
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.genruntimeconfig.cache
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\TarHome1\TarHome1\obj\Debug\net6.0\ref\TarHome1.dll
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\bin\Debug\net6.0\appsettings.json
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\bin\Debug\net6.0\TarHome1.exe
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\bin\Debug\net6.0\TarHome1.deps.json
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\bin\Debug\net6.0\TarHome1.runtimeconfig.json
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\bin\Debug\net6.0\TarHome1.dll
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\bin\Debug\net6.0\TarHome1.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.csproj.AssemblyReference.cache
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.AssemblyInfoInputs.cache
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.AssemblyInfo.cs
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.csproj.CoreCompileInputs.cache
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\obj\Debug\net6.0\scopedcss\bundle\TarHome1.styles.css
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.csproj.CopyComplete
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.dll
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\obj\Debug\net6.0\refint\TarHome1.dll
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.pdb
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\obj\Debug\net6.0\TarHome1.genruntimeconfig.cache
+C:\Users\97254\OneDrive\שולחן העבודה\צד שרת\מטלות\מטלה 1+2\TarHome1\TarHome1\obj\Debug\net6.0\ref\TarHome1.dll
